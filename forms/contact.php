@@ -4,7 +4,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $email = $_POST['email'];
     $message = $_POST['message'];
 
-    $to = 'ali@alkhiami.de';
+    $to = 'info@inngenpro.com';
     $subject = 'New message from your website';
     $body = "From: $name\nE-Mail: $email\nMessage:\n$message";
 

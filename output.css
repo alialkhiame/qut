@@ -1,0 +1,57 @@
+.banner {
+  background-color: #f2ece4;
+  color: #036;
+}
+body.dark .banner {
+  background-color: #6b717f;
+  color: #d2e1dd;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  color: #333;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.header {
+  background-color: #3498db;
+  color: white;
+  padding: 20px;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+}
+
+.nav ul {
+  list-style: none;
+  padding: 0;
+}
+.nav ul li {
+  display: inline-block;
+  margin-right: 10px;
+}
+.nav ul li a {
+  text-decoration: none;
+  color: #2ecc71;
+}
+.nav ul li a:hover {
+  text-decoration: underline;
+}
+
+ol li {
+  margin-bottom: 30px;
+}
+
+.footer {
+  background-color: #3498db;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+
+/*# sourceMappingURL=output.css.map */

@@ -1577,3 +1577,12 @@ section {
  margin-bottom: 10%;
  
  }
+
+
+ @media screen and (max-width: 600px) {
+  .text{
+    display: none;
+    
+   
+   }
+}

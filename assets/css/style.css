@@ -1564,6 +1564,7 @@ section {
       /* Center the section itself if it's not as wide as 100% */
       display: flex;
       justify-content: center;
+      margin-bottom: 5%;
  
 }
  video{

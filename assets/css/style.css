@@ -1557,3 +1557,15 @@ section {
   margin-left: 10%;
   position: relative;
 }
+
+
+#vid {
+ background-color: #222222;
+      /* Center the section itself if it's not as wide as 100% */
+      display: flex;
+      justify-content: center;
+ 
+}
+ video{
+  width: 50%;
+ }

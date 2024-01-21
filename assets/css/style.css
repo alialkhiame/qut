@@ -1560,7 +1560,7 @@ section {
 
 
 #vid {
- background-color: #222222;
+ background-color: black;
       /* Center the section itself if it's not as wide as 100% */
       display: flex;
       justify-content: center;
@@ -1569,4 +1569,10 @@ section {
 }
  video{
   width: 50%;
+ }
+
+ .text{
+  color: white;
+ position: absolute;
+ 
  }
